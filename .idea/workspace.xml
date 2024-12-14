@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8133576-9fad-424f-944b-d0286d2f16d5" name="Changes" comment="Update index.html and index2.html">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    <list default="true" id="d8133576-9fad-424f-944b-d0286d2f16d5" name="Changes" comment="Update app.py">
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,12 +69,29 @@
       <option name="project" value="LOCAL" />
       <updated>1734180433806</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update app.py">
+      <option name="closed" value="true" />
+      <created>1734180758942</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734180758942</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update app.py">
+      <option name="closed" value="true" />
+      <created>1734180935538</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734180935538</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Update index.html and index2.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update index.html and index2.html" />
+    <MESSAGE value="Update app.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update app.py" />
   </component>
 </project>
